@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "hupu.at.mobile"
+    versionCode = "1"
+    version     = "1.0.0" >
+
+<!-- versionCode is optional and Android only -->
+
+  <name>Hupu</name>
+
+  <description>
+      Give links to your listeners via numbers.
+  </description>
+
+  <author href="http://www.hupu.at" email="kaya.bhdr@gmail.com">
+      Orçun Madran
+  </author>
+    
+  <icon src="icon.png" />
+
+</widget>
